@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Whiskey List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="search_actionbar">Search</string>
+    <string name="search_hint">Search for whiskey</string>
+    <string name="information">Information</string>
+    <string name="turn_off">Turn Off</string>
+    <string name="label_about_app">About the app</string>
+    <string name="label_about_me">About me</string>
+    <string name="info_about_app">This app is built for Whiskey Lovers by a Whiskey Lover. The functionality of the app is for users to be able to look up several brands of whiskey and find out more information about it. It also includes the location of the distillery that the whiskey was made. Future plan is to include if any store near the user has the whiskey for sale</string>
+    <string name="info_about_me">My name is Felix and I\'m the creator of this application. When I\'m not being a whiskey lover and programmer, then I\'m a geek who enjoys video- and boardgames, as well as just enjoying to meet new people and experience new things. And no, I also enjoy other drinks that aren\'t whiskey</string>
+
+</resources>
